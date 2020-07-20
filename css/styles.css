@@ -1,0 +1,23 @@
+.intro {
+  font-style: italic;
+}
+.author {
+  color: red;
+}
+p.author {
+  font-size: 12px;
+}
+#line1 {
+  color: blue;
+}
+.important {
+  color: orange
+}
+.taste {
+  color: black;
+}
+.sidebar {
+  width: 80%;
+  float: left;
+  background color: black;
+}
